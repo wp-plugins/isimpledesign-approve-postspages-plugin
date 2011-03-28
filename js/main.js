@@ -1,6 +1,6 @@
 jQuery(document).ready(function() {
 	// main blog approve posts
-function bindEm() {
+
 	$('.check').live('click', function() {
 							   
 			$(this).removeClass('check').addClass('check_already_approved');
@@ -53,9 +53,9 @@ function bindEm() {
 		 }, "json" );				
 		 return false;
 	});
-}
 
-bindEm();	
+
+	
 
 // approved - allready approved section
 
