@@ -228,3 +228,10 @@ return $result;
 }
 }
 isdwpposts_activate();
+add_shortcode( 'isd_posts_pages_approve', 'isd_posts_feeds' );
+
+function isdwpposts_init()
+{
+  register_sidebar_widget(__('ISD Posts/Pages Approve'), 'isd_posts_feeds');
+}
+add_action("plugins_loaded", "isdwpposts_init");
