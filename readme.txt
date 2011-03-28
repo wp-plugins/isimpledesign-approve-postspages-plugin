@@ -35,6 +35,10 @@ insert into your theme with the following. Sidebar.php etc
 <h3>If you would like to put this within your template please use the following code</h3>
 <code>&lt;?php isd_posts_feeds(); ?&gt;</code>
 
+Use sidebar widget ;)
+
+or insert shortcode in a post or page. [isd_posts_pages_approve]
+
 
 1, 2: You're done!
 
