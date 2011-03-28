@@ -4,7 +4,7 @@ Plugin Name: iSimpleDesign Posts Control Approve
 Plugin URI: http://www.isimpledesign.co.uk/
 Description: Plugin designed to allows blog posts to main website feed.
 Version: 1.0
-Author: Samuel East
+Author: Samuel East - Web Developer South Wales
 Author URI: http://www.isimpledesign.co.uk/
 License: A "Slug" license name e.g. GPL2
 */
